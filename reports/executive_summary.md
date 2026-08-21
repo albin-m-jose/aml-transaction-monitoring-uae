@@ -26,7 +26,7 @@ Loaded and validated the full synthetic dataset containing 10,000 customers, 11,
 
 
 
-\## Phase 2: Customer Risk Rating CRR Engine
+\## Phase 2: Customer Risk Rating (CRR) Engine
 
 
 
@@ -78,7 +78,7 @@ Built and validated the core AML detection rules against the transaction dataset
 
 
 
-\* Two genuine \*\*data limitations\*\* were identified during validation. One was a synthetic data generation limit affecting a structuring tier, and the other was a currency conversion issue affecting some layering chains. Both  were investigated, traced to their root cause and documented rather than changing the rules to improve the results artificially.
+\* Two genuine \*\*data limitations\*\* were identified during validation. One was a synthetic data generation limit affecting a structuring tier, and the other was a currency conversion issue affecting some layering chains. Both were investigated, traced to their root cause and documented rather than changing the rules to improve the results artificially.
 
 
 
