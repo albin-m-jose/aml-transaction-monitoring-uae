@@ -78,7 +78,7 @@ Built and validated the core AML detection rules against the transaction dataset
 
 
 
-\* Two genuine \*\*data limitations\*\* were identified during validation. One was a synthetic data generation limit affecting a structuring tier, and the other was a currency conversion issue affecting some layering chains. Both were investigated, traced to their root cause and documented rather than changing the rules to improve the results artificially.
+\* Two genuine \*\*data limitations\*\* were identified during validation. One was a synthetic data generation limit affecting a structuring tier, and the other was a currency conversion issue affecting some layering chains. Both  were investigated, traced to their root cause and documented rather than changing the rules to improve the results artificially.
 
 
 
