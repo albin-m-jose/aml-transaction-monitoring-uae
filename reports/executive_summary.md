@@ -84,9 +84,3 @@ Built and validated the core AML detection rules against the transaction dataset
 
 \* A total of \*\*366 alerts\*\* were consolidated into a single unified alert table. This will be used as the input for \*\*Phase 4: Peer Group Anomaly Detection\*\* and \*\*Phase 5: Alert Triage and Prioritization\*\*.
 
-
-
-
-
-
-
