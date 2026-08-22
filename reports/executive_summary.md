@@ -80,3 +80,27 @@ Built a behavioural anomaly detection layer that compares each customer's monthl
 - **Overall interpretation:** The validation results were weaker than the typology specific detection rules in Phase 3, but this is expected because this layer is designed to detect a different type of behaviour. Instead of looking for specific patterns such as Structuring, Rapid Movement or Layering, it identifies customers whose transaction volume, activity level or counterparty behaviour differs significantly from similar customers. The ground truth scenarios were deliberately generated around specific AML typologies, so overlap with this broader anomaly detection approach cannot fully measure its usefulness.
 
 Overall, Phase 4 acts as an additional safety net alongside the Customer Risk Rating model in Phase 2 and the deterministic AML detection rules in Phase 3. Its main value is in identifying unusual or potentially new behavioural patterns that existing rules were not specifically designed to detect, rather than replacing the existing risk scoring or typology based detection methods.
+
+### Phase 5 Summary: Alert Scoring, Prioritization and Triage
+
+Combined the outputs from Phase 2, customer risk ratings, Phase 3, typology detection alerts, and Phase 4, peer anomaly detection, into a single customer level triage table. The aim was to address alert fatigue, where a large number of alerts and limited analyst capacity require a clear and defensible way to decide which customers should be investigated first.
+
+**Methodology:**
+
+* 220 unique customers with at least one Phase 3 alert were combined into one row per customer. The table captures trigger count, distinct alert types, highest alert severity, CRR tier, and same month anomaly co occurrence from Phase 4.
+
+* A weighted priority score combined alert severity at 50 percent, customer CRR at 35 percent, and anomaly co occurrence at 15 percent. Alert severity received the highest weight because a direct match to a specific detection rule is the strongest evidence, while CRR and anomaly signals provide additional risk context.
+
+* A trigger diversity boost was added for customers flagged by multiple distinct detection rules. This corrected an initial design flaw where using the total alert count unfairly favored Structuring, since its rolling window logic can naturally generate multiple alerts from the same underlying pattern. Using distinct alert types instead better rewards customers with supporting signals from different detection rules.
+
+* Customers were assigned to P1 Critical, P2 High, and P3 Standard tiers using the 85th and 50th percentile cutoffs of the final priority score. This follows the same data driven threshold approach used throughout the project.
+
+**Validation and limitations:**
+
+The ground truth True and False label was not useful for directly validating the ranking. This is because all customers in the triage table had already triggered a Phase 3 detection rule, and most were already true positive cases regardless of their priority tier.
+
+A second check looked at the number of distinct ground truth scenario types linked to each customer. This showed only a weak difference between higher and lower priority tiers. The main reason was a limitation of the synthetic dataset, where scenarios were mostly generated as independent and self contained events. Very few customers were involved in multiple scenario types, leaving limited variation for this test.
+
+The more meaningful validation was therefore checking whether the scoring logic behaved as intended. P3 mainly isolates customers with single, lower severity Structuring alerts, while P1 contains a more balanced mix of alert types. This is expected because the final score does not depend on severity alone. It combines severity with customer risk rating and behavioral anomaly context, allowing customers with multiple supporting risk signals to rank higher even when their individual alert type is not the most severe.
+
+The final output from this phase is the prioritized customer alert queue used directly in Phase 6 to power the Streamlit investigation dashboard.
