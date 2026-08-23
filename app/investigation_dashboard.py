@@ -243,7 +243,7 @@ with tab1:
     </div>
     """, unsafe_allow_html=True)
 
-    DATA_DIR = '../data'
+    DATA_DIR = 'data'
 
     triage = pd.read_csv(f'{DATA_DIR}/triage_queue.csv')
     alerts = pd.read_csv(f'{DATA_DIR}/unified_alerts.csv')
@@ -453,7 +453,7 @@ with tab1:
         )
 
         try:
-            with open('../notebooks/layering_network.html', 'r', encoding='utf-8') as f:
+            with open('notebooks/layering_network.html', 'r', encoding='utf-8') as f:
                 html_content = f.read()
             st.markdown('<div class="network-container">', unsafe_allow_html=True)
             components.html(html_content, height=750, scrolling=True)
