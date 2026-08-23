@@ -1,0 +1,221 @@
+customer_id,num_triggers,num_distinct_types,alert_types,max_severity,crr_tier,composite_crr,anomaly_same_month,priority_score,triage_tier
+CUST_103265,7,2,"['Structuring (1-day)', 'Structuring (7-day)']",High,High,0.6401499558869508,True,0.7990524845604329,P1 - Critical
+CUST_100372,1,1,['Layering'],Critical,Medium,0.3720795713594159,True,0.7802278499757956,P1 - Critical
+CUST_105594,1,1,['Layering'],Critical,Medium,0.3537819214872424,True,0.7738236725205349,P1 - Critical
+CUST_100653,1,1,['Layering'],Critical,Medium,0.2723256904777273,True,0.7453139916672046,P1 - Critical
+CUST_103523,1,1,['Layering'],Critical,Medium,0.2700089192265802,True,0.7445031217293031,P1 - Critical
+CUST_103840,1,1,['Rapid Movement'],High,High,0.626620561884021,True,0.7443171966594074,P1 - Critical
+CUST_107773,1,1,['Rapid Movement'],High,High,0.5947209231714718,True,0.7331523231100151,P1 - Critical
+CUST_107039,1,1,['Rapid Movement'],High,High,0.5905059072518092,True,0.7316770675381332,P1 - Critical
+CUST_104602,1,1,['Rapid Movement'],High,High,0.5565813916328562,True,0.7198034870714997,P1 - Critical
+CUST_108814,1,1,['Rapid Movement'],High,High,0.5308508164485215,True,0.7107977857569826,P1 - Critical
+CUST_102486,2,2,"['Structuring (7-day)', 'Rapid Movement']",High,High,0.7654685494223363,False,0.6929139922978178,P1 - Critical
+CUST_109561,1,1,['Rapid Movement'],High,High,0.4786449591926869,True,0.6925257357174405,P1 - Critical
+CUST_103058,6,2,"['Structuring (1-day)', 'Structuring (7-day)']",High,High,0.7222130114637174,False,0.6777745540123011,P1 - Critical
+CUST_102265,1,1,['Rapid Movement'],High,High,0.4362853925472296,True,0.6776998873915304,P1 - Critical
+CUST_104045,6,2,"['Structuring (1-day)', 'Structuring (7-day)']",High,High,0.7144353688405511,False,0.6750523790941929,P1 - Critical
+CUST_104241,7,2,"['Structuring (1-day)', 'Structuring (7-day)']",High,High,0.7124291553825786,False,0.6743502043839025,P1 - Critical
+CUST_103119,2,2,"['Structuring (7-day)', 'Rapid Movement']",High,High,0.6932043877438472,False,0.6676215357103465,P1 - Critical
+CUST_101500,1,1,['Rapid Movement'],High,High,0.4048160261123894,True,0.6666856091393363,P1 - Critical
+CUST_104371,7,2,"['Structuring (1-day)', 'Structuring (7-day)']",High,High,0.665374506928906,False,0.6578810774251171,P1 - Critical
+CUST_103014,1,1,['Layering'],Critical,High,0.45050752081446,False,0.657677632285061,P1 - Critical
+CUST_104768,7,2,"['Structuring (1-day)', 'Structuring (7-day)']",High,High,0.6461417363687736,False,0.6511496077290708,P1 - Critical
+CUST_109694,1,1,['Rapid Movement'],High,Medium,0.3570879899890229,True,0.649980796496158,P1 - Critical
+CUST_104942,1,1,['Layering'],Critical,High,0.4260755672527736,False,0.6491264485384708,P1 - Critical
+CUST_104521,8,2,"['Structuring (1-day)', 'Structuring (7-day)']",High,High,0.6369300071029419,False,0.6479255024860298,P1 - Critical
+CUST_100459,1,1,['Rapid Movement'],High,Medium,0.3456357835232297,True,0.6459725242331303,P1 - Critical
+CUST_104103,3,2,"['Structuring (1-day)', 'Structuring (7-day)']",High,High,0.6249029580507803,False,0.6437160353177731,P1 - Critical
+CUST_105739,4,2,"['Structuring (1-day)', 'Structuring (7-day)']",High,High,0.6216504098020473,False,0.6425776434307167,P1 - Critical
+CUST_108380,1,1,['Layering'],Critical,Medium,0.3996345572465306,False,0.6398720950362857,P1 - Critical
+CUST_108067,1,1,['Layering'],Critical,Medium,0.3822624233787988,False,0.6337918481825795,P1 - Critical
+CUST_104082,1,1,['Layering'],Critical,Medium,0.3692353405063522,False,0.6292323691772232,P1 - Critical
+CUST_105507,1,1,['Layering'],Critical,Medium,0.3638834292216401,False,0.6273592002275741,P1 - Critical
+CUST_106400,6,2,"['Structuring (1-day)', 'Structuring (7-day)']",High,High,0.5738080523308675,False,0.6258328183158037,P1 - Critical
+CUST_109313,4,2,"['Structuring (1-day)', 'Structuring (7-day)']",High,High,0.5660582366864233,False,0.6231203828402482,P1 - Critical
+CUST_109985,6,2,"['Structuring (1-day)', 'Structuring (7-day)']",High,High,0.5533536819567073,False,0.6186737886848476,P2 - High
+CUST_103175,2,1,['Structuring (7-day)'],Medium,High,0.6125507324234006,True,0.6143927563481902,P2 - High
+CUST_102058,1,1,['Layering'],Critical,Medium,0.3223429302353079,False,0.6128200255823577,P2 - High
+CUST_106433,1,1,['Layering'],Critical,Medium,0.3137493855590013,False,0.6098122849456504,P2 - High
+CUST_109004,8,2,"['Structuring (1-day)', 'Structuring (7-day)']",High,High,0.5216109112508956,False,0.6075638189378135,P2 - High
+CUST_100820,1,1,['Layering'],Critical,Medium,0.3025221042757643,False,0.6058827364965175,P2 - High
+CUST_101280,1,1,['Layering'],Critical,Medium,0.2958860828132933,False,0.6035601289846526,P2 - High
+CUST_104690,7,2,"['Structuring (1-day)', 'Structuring (7-day)']",High,High,0.5093119443426656,False,0.603259180519933,P2 - High
+CUST_101511,1,1,['Layering'],Critical,Medium,0.2896558461960091,False,0.6013795461686031,P2 - High
+CUST_103344,1,1,['Layering'],Critical,Medium,0.2858545390976626,False,0.6000490886841819,P2 - High
+CUST_103720,1,1,['Rapid Movement'],High,High,0.6334827967151293,False,0.5967189788502952,P2 - High
+CUST_104406,1,1,['Layering'],Critical,Medium,0.2720434070278797,False,0.5952151924597578,P2 - High
+CUST_107021,1,1,['Rapid Movement'],High,High,0.603435052575677,False,0.5862022684014869,P2 - High
+CUST_102506,1,1,['Rapid Movement'],High,High,0.5946928171093392,False,0.5831424859882687,P2 - High
+CUST_109531,1,1,['Rapid Movement'],High,High,0.5898809609844051,False,0.5814583363445418,P2 - High
+CUST_104271,1,1,['Rapid Movement'],High,High,0.5825143366864822,False,0.5788800178402688,P2 - High
+CUST_107241,5,1,['Structuring (7-day)'],Medium,High,0.5098913368684419,True,0.5784619679039547,P2 - High
+CUST_102444,1,1,['Rapid Movement'],High,High,0.5801339348669775,False,0.5780468772034422,P2 - High
+CUST_102615,4,2,"['Structuring (1-day)', 'Structuring (7-day)']",High,High,0.4365438039068901,False,0.5777903313674115,P2 - High
+CUST_102168,1,1,['Rapid Movement'],High,High,0.5774591109937793,False,0.5771106888478228,P2 - High
+CUST_102980,1,1,['Rapid Movement'],High,High,0.5773356054209183,False,0.5770674618973214,P2 - High
+CUST_105431,1,1,['Layering'],Critical,Medium,0.2138588236086785,False,0.5748505882630375,P2 - High
+CUST_100969,1,1,['Layering'],Critical,Medium,0.2119963061250743,False,0.574198707143776,P2 - High
+CUST_102056,1,1,['Rapid Movement'],High,High,0.5618920989492184,False,0.5716622346322264,P2 - High
+CUST_104535,1,1,['Rapid Movement'],High,High,0.5615321684351257,False,0.571536258952294,P2 - High
+CUST_105188,1,1,['Rapid Movement'],High,High,0.5595637145068902,False,0.5708473000774116,P2 - High
+CUST_108128,1,1,['Rapid Movement'],High,High,0.5580667122851849,False,0.5703233492998148,P2 - High
+CUST_106443,1,1,['Rapid Movement'],High,High,0.5570438527452487,False,0.569965348460837,P2 - High
+CUST_108514,1,1,['Rapid Movement'],High,High,0.5538992463065485,False,0.5688647362072919,P2 - High
+CUST_104104,1,1,['Rapid Movement'],High,High,0.5514225237593151,False,0.5679978833157603,P2 - High
+CUST_106324,1,1,['Rapid Movement'],High,High,0.5485396088148453,False,0.5669888630851958,P2 - High
+CUST_108219,1,1,['Rapid Movement'],High,High,0.547571171888843,False,0.566649910161095,P2 - High
+CUST_100784,1,1,['Rapid Movement'],High,High,0.5366062035553797,False,0.5628121712443829,P2 - High
+CUST_104670,1,1,['Rapid Movement'],High,High,0.5361888772782327,False,0.5626661070473814,P2 - High
+CUST_108210,1,1,['Rapid Movement'],High,High,0.5333844439257016,False,0.5616845553739955,P2 - High
+CUST_101439,1,1,['Rapid Movement'],High,High,0.5238333130417276,False,0.5583416595646047,P2 - High
+CUST_102981,1,1,['Rapid Movement'],High,High,0.5230575728223099,False,0.5580701504878085,P2 - High
+CUST_104253,1,1,['Rapid Movement'],High,High,0.5096847674661216,False,0.5533896686131425,P2 - High
+CUST_106328,1,1,['Rapid Movement'],High,High,0.5018389253662889,False,0.5506436238782011,P2 - High
+CUST_103884,1,1,['Rapid Movement'],High,High,0.4878505073883387,False,0.5457476775859185,P2 - High
+CUST_105049,1,1,['Layering'],Critical,Low,0.1300764747051509,False,0.5455267661468028,P2 - High
+CUST_109639,1,1,['Layering'],Critical,Low,0.12278690798798,False,0.542975417795793,P2 - High
+CUST_103756,1,1,['Rapid Movement'],High,High,0.4789605328551596,False,0.5426361864993059,P2 - High
+CUST_102418,1,1,['Rapid Movement'],High,High,0.4778819763143132,False,0.5422586917100096,P2 - High
+CUST_100311,1,1,['Rapid Movement'],High,High,0.4776636890331855,False,0.542182291161615,P2 - High
+CUST_108078,1,1,['Rapid Movement'],High,High,0.4756614128336822,False,0.5414814944917887,P2 - High
+CUST_105723,1,1,['Rapid Movement'],High,High,0.473052222901673,False,0.5405682780155856,P2 - High
+CUST_100412,1,1,['Rapid Movement'],High,High,0.4718747830695978,False,0.5401561740743592,P2 - High
+CUST_109474,1,1,['Rapid Movement'],High,High,0.4700867437572953,False,0.5395303603150534,P2 - High
+CUST_108052,1,1,['Rapid Movement'],High,High,0.4642432170338889,False,0.5374851259618612,P2 - High
+CUST_106544,1,1,['Rapid Movement'],High,High,0.4627658027169771,False,0.5369680309509419,P2 - High
+CUST_101736,1,1,['Rapid Movement'],High,High,0.4480416471732783,False,0.5318145765106475,P2 - High
+CUST_107222,1,1,['Rapid Movement'],High,High,0.4474934722471094,False,0.5316227152864883,P2 - High
+CUST_107398,1,1,['Rapid Movement'],High,High,0.4356619910082888,False,0.527481696852901,P2 - High
+CUST_107042,1,1,['Rapid Movement'],High,High,0.4349584383742683,False,0.5272354534309939,P2 - High
+CUST_106972,1,1,['Rapid Movement'],High,High,0.4294781405479554,False,0.5253173491917844,P2 - High
+CUST_100528,1,1,['Rapid Movement'],High,High,0.4270312032256947,False,0.5244609211289931,P2 - High
+CUST_104749,1,1,['Rapid Movement'],High,High,0.426806155328978,False,0.5243821543651424,P2 - High
+CUST_100251,1,1,['Rapid Movement'],High,High,0.4236964766449034,False,0.5232937668257162,P2 - High
+CUST_108331,1,1,['Rapid Movement'],High,High,0.4231353761481204,False,0.5230973816518422,P2 - High
+CUST_108569,1,1,['Rapid Movement'],High,High,0.4166399885303329,False,0.5208239959856165,P2 - High
+CUST_105858,1,1,['Rapid Movement'],High,High,0.4132250911044205,False,0.5196287818865472,P2 - High
+CUST_109009,1,1,['Rapid Movement'],High,High,0.4039908577334928,False,0.5163968002067225,P2 - High
+CUST_104899,1,1,['Rapid Movement'],High,Medium,0.3964980809137898,False,0.5137743283198264,P2 - High
+CUST_103023,1,1,['Rapid Movement'],High,Medium,0.3794076420750608,False,0.5077926747262713,P2 - High
+CUST_108942,1,1,['Rapid Movement'],High,Medium,0.3723899183966713,False,0.505336471438835,P2 - High
+CUST_103157,2,1,['Structuring (7-day)'],Medium,High,0.7112675794816051,False,0.4989436528185618,P2 - High
+CUST_102974,2,1,['Structuring (7-day)'],Medium,High,0.7008560431408846,False,0.4952996150993096,P2 - High
+CUST_107278,2,1,['Structuring (7-day)'],Medium,High,0.6853721187734202,False,0.48988024157069704,P2 - High
+CUST_100961,2,1,['Structuring (7-day)'],Medium,High,0.6850220416545876,False,0.48975771457910566,P2 - High
+CUST_103845,2,1,['Structuring (7-day)'],Medium,High,0.663714968870806,False,0.4823002391047821,P2 - High
+CUST_104612,2,1,['Structuring (7-day)'],Medium,High,0.6468875979127512,False,0.4764106592694629,P2 - High
+CUST_107613,2,1,['Structuring (7-day)'],Medium,High,0.6428697042914073,False,0.47500439650199255,P2 - High
+CUST_109691,1,1,['Structuring (7-day)'],Medium,High,0.6417787300095823,False,0.47462255550335375,P2 - High
+CUST_101640,1,1,['Structuring (7-day)'],Medium,High,0.64075074722319,False,0.4742627615281165,P2 - High
+CUST_103052,1,1,['Structuring (7-day)'],Medium,High,0.6403807247223062,False,0.4741332536528072,P2 - High
+CUST_105306,1,1,['Structuring (7-day)'],Medium,High,0.6391627543072158,False,0.47370696400752554,P2 - High
+CUST_108254,2,1,['Structuring (7-day)'],Medium,High,0.631368286483988,False,0.4709789002693958,P3 - Standard
+CUST_106700,2,1,['Structuring (7-day)'],Medium,High,0.6299282886845141,False,0.4704749010395799,P3 - Standard
+CUST_105677,2,1,['Structuring (7-day)'],Medium,High,0.6255497894415246,False,0.4689424263045336,P3 - Standard
+CUST_107809,2,1,['Structuring (7-day)'],Medium,High,0.6222036378491986,False,0.4677712732472195,P3 - Standard
+CUST_107644,1,1,['Structuring (7-day)'],Medium,High,0.6204330433199295,False,0.4671515651619753,P3 - Standard
+CUST_105284,1,1,['Structuring (7-day)'],Medium,High,0.605229936839099,False,0.46183047789368464,P3 - Standard
+CUST_103727,1,1,['Structuring (7-day)'],Medium,High,0.6023323661251897,False,0.46081632814381634,P3 - Standard
+CUST_102461,1,1,['Structuring (7-day)'],Medium,High,0.5964282436395251,False,0.45874988527383376,P3 - Standard
+CUST_101805,1,1,['Structuring (7-day)'],Medium,High,0.5922905905401479,False,0.45730170668905173,P3 - Standard
+CUST_106766,2,1,['Structuring (7-day)'],Medium,High,0.5857431066078458,False,0.455010087312746,P3 - Standard
+CUST_106839,1,1,['Structuring (7-day)'],Medium,High,0.5849488401517026,False,0.4547320940530959,P3 - Standard
+CUST_102038,2,1,['Structuring (7-day)'],Medium,High,0.5846033560422695,False,0.45461117461479433,P3 - Standard
+CUST_105577,3,1,['Structuring (7-day)'],Medium,High,0.5831486944009163,False,0.4541020430403207,P3 - Standard
+CUST_106702,1,1,['Structuring (7-day)'],Medium,High,0.5814358387873904,False,0.4535025435755866,P3 - Standard
+CUST_105145,1,1,['Structuring (7-day)'],Medium,High,0.5783794758337469,False,0.45243281654181144,P3 - Standard
+CUST_100850,2,1,['Structuring (7-day)'],Medium,High,0.5771928741623339,False,0.4520175059568169,P3 - Standard
+CUST_106965,2,1,['Structuring (7-day)'],Medium,High,0.5750792678294272,False,0.4512777437402995,P3 - Standard
+CUST_104234,1,1,['Structuring (7-day)'],Medium,High,0.5731762539596256,False,0.45061168888586894,P3 - Standard
+CUST_108721,2,1,['Structuring (7-day)'],Medium,High,0.5713553827671237,False,0.4499743839684933,P3 - Standard
+CUST_105697,1,1,['Structuring (7-day)'],Medium,High,0.5679427962328072,False,0.4487799786814825,P3 - Standard
+CUST_101539,1,1,['Structuring (7-day)'],Medium,High,0.5639162122022655,False,0.4473706742707929,P3 - Standard
+CUST_106127,2,1,['Structuring (7-day)'],Medium,High,0.5638342819748953,False,0.4473419986912133,P3 - Standard
+CUST_102286,1,1,['Structuring (7-day)'],Medium,High,0.5630799562701062,False,0.4470779846945372,P3 - Standard
+CUST_103351,1,1,['Structuring (7-day)'],Medium,High,0.5616112340687381,False,0.4465639319240583,P3 - Standard
+CUST_108562,2,1,['Structuring (7-day)'],Medium,High,0.559076029469415,False,0.4456766103142953,P3 - Standard
+CUST_105982,2,1,['Structuring (7-day)'],Medium,High,0.5578416066342593,False,0.4452445623219907,P3 - Standard
+CUST_102289,1,1,['Structuring (7-day)'],Medium,High,0.555643363517678,False,0.44447517723118724,P3 - Standard
+CUST_105415,2,1,['Structuring (7-day)'],Medium,High,0.5543011409930715,False,0.444005399347575,P3 - Standard
+CUST_107637,1,1,['Structuring (7-day)'],Medium,High,0.5515374398326394,False,0.44303810394142373,P3 - Standard
+CUST_101504,2,1,['Structuring (7-day)'],Medium,High,0.5487329088253579,False,0.44205651808887525,P3 - Standard
+CUST_101362,2,1,['Structuring (7-day)'],Medium,High,0.5486643430120127,False,0.44203252005420446,P3 - Standard
+CUST_106552,1,1,['Structuring (7-day)'],Medium,High,0.5473763645892638,False,0.4415817276062423,P3 - Standard
+CUST_108878,1,1,['Structuring (7-day)'],Medium,High,0.5469201924496199,False,0.44142206735736694,P3 - Standard
+CUST_106167,2,1,['Structuring (7-day)'],Medium,High,0.5459476935221401,False,0.441081692732749,P3 - Standard
+CUST_105988,1,1,['Structuring (7-day)'],Medium,High,0.5420986589271485,False,0.43973453062450196,P3 - Standard
+CUST_108846,1,1,['Structuring (7-day)'],Medium,High,0.5392246818600517,False,0.4387286386510181,P3 - Standard
+CUST_103916,1,1,['Structuring (7-day)'],Medium,High,0.5370060702521086,False,0.43795212458823796,P3 - Standard
+CUST_103189,1,1,['Structuring (7-day)'],Medium,High,0.5335929855721662,False,0.43675754495025815,P3 - Standard
+CUST_103813,1,1,['Structuring (7-day)'],Medium,High,0.5324466601439444,False,0.4363563310503805,P3 - Standard
+CUST_103296,2,1,['Structuring (7-day)'],Medium,High,0.5309001924069235,False,0.43581506734242326,P3 - Standard
+CUST_102320,1,1,['Structuring (7-day)'],Medium,High,0.5248492869855357,False,0.43369725044493745,P3 - Standard
+CUST_102074,2,1,['Structuring (7-day)'],Medium,High,0.5220898652941974,False,0.4327314528529691,P3 - Standard
+CUST_101789,2,1,['Structuring (7-day)'],Medium,High,0.5216575610795504,False,0.43258014637784264,P3 - Standard
+CUST_100694,1,1,['Structuring (7-day)'],Medium,High,0.5214483735674423,False,0.4325069307486048,P3 - Standard
+CUST_101154,1,1,['Structuring (7-day)'],Medium,High,0.5195736395600414,False,0.4318507738460145,P3 - Standard
+CUST_100330,1,1,['Structuring (7-day)'],Medium,High,0.5140670441646519,False,0.42992346545762816,P3 - Standard
+CUST_105065,1,1,['Structuring (7-day)'],Medium,High,0.5116706359309204,False,0.42908472257582214,P3 - Standard
+CUST_102753,2,1,['Structuring (7-day)'],Medium,High,0.5094916729642085,False,0.428322085537473,P3 - Standard
+CUST_107690,2,1,['Structuring (7-day)'],Medium,High,0.5089469893443282,False,0.4281314462705149,P3 - Standard
+CUST_105289,1,1,['Structuring (7-day)'],Medium,High,0.5041966960361932,False,0.4264688436126676,P3 - Standard
+CUST_102439,1,1,['Structuring (7-day)'],Medium,High,0.5027582609156953,False,0.4259653913204934,P3 - Standard
+CUST_101257,2,1,['Structuring (7-day)'],Medium,High,0.5011396149566947,False,0.42539886523484316,P3 - Standard
+CUST_103875,1,1,['Structuring (7-day)'],Medium,High,0.4955999748446281,False,0.42345999119561983,P3 - Standard
+CUST_105964,2,1,['Structuring (7-day)'],Medium,High,0.4881301539875019,False,0.42084555389562567,P3 - Standard
+CUST_107525,1,1,['Structuring (7-day)'],Medium,High,0.4763088660148154,False,0.41670810310518536,P3 - Standard
+CUST_104794,1,1,['Structuring (7-day)'],Medium,High,0.4750290898889458,False,0.41626018146113103,P3 - Standard
+CUST_101031,1,1,['Structuring (7-day)'],Medium,High,0.4741008759872306,False,0.4159353065955307,P3 - Standard
+CUST_102835,2,1,['Structuring (7-day)'],Medium,High,0.4731294546254706,False,0.41559530911891474,P3 - Standard
+CUST_101819,2,1,['Structuring (7-day)'],Medium,High,0.470562305899729,False,0.41469680706490514,P3 - Standard
+CUST_101375,2,1,['Structuring (7-day)'],Medium,High,0.4690932583811117,False,0.4141826404333891,P3 - Standard
+CUST_101775,1,1,['Structuring (7-day)'],Medium,High,0.4674770589499299,False,0.4136169706324755,P3 - Standard
+CUST_107037,1,1,['Structuring (7-day)'],Medium,High,0.4659074504497753,False,0.41306760765742134,P3 - Standard
+CUST_102880,2,1,['Structuring (7-day)'],Medium,High,0.4649299559626599,False,0.4127254845869309,P3 - Standard
+CUST_106440,2,1,['Structuring (7-day)'],Medium,High,0.4596241573999691,False,0.41086845508998915,P3 - Standard
+CUST_108672,2,1,['Structuring (7-day)'],Medium,High,0.4595459417110902,False,0.41084107959888155,P3 - Standard
+CUST_103418,2,1,['Structuring (7-day)'],Medium,High,0.4594396410762725,False,0.41080387437669535,P3 - Standard
+CUST_108004,2,1,['Structuring (7-day)'],Medium,High,0.4573711053723421,False,0.4100798868803197,P3 - Standard
+CUST_100239,1,1,['Structuring (7-day)'],Medium,High,0.45605724216271,False,0.4096200347569485,P3 - Standard
+CUST_100603,2,1,['Structuring (7-day)'],Medium,High,0.4551010671962611,False,0.4092853735186914,P3 - Standard
+CUST_107779,2,1,['Structuring (7-day)'],Medium,High,0.4540388923526456,False,0.40891361232342593,P3 - Standard
+CUST_100302,2,1,['Structuring (7-day)'],Medium,High,0.4500355899384471,False,0.40751245647845646,P3 - Standard
+CUST_100827,3,1,['Structuring (7-day)'],Medium,High,0.4498547137056931,False,0.40744914979699254,P3 - Standard
+CUST_106335,1,1,['Structuring (7-day)'],Medium,High,0.4464726208438385,False,0.4062654172953435,P3 - Standard
+CUST_106096,1,1,['Structuring (7-day)'],Medium,High,0.4460844493949432,False,0.4061295572882301,P3 - Standard
+CUST_106691,2,1,['Structuring (7-day)'],Medium,High,0.4292216803042685,False,0.40022758810649395,P3 - Standard
+CUST_106447,1,1,['Structuring (7-day)'],Medium,High,0.4239199221690587,False,0.3983719727591706,P3 - Standard
+CUST_104354,2,1,['Structuring (7-day)'],Medium,High,0.4225236785186999,False,0.39788328748154494,P3 - Standard
+CUST_109992,1,1,['Structuring (7-day)'],Medium,High,0.4217106268831515,False,0.397598719409103,P3 - Standard
+CUST_109686,1,1,['Structuring (7-day)'],Medium,High,0.4207526661008686,False,0.397263433135304,P3 - Standard
+CUST_105056,2,1,['Structuring (7-day)'],Medium,High,0.4182497313983282,False,0.39638740598941485,P3 - Standard
+CUST_108663,2,1,['Structuring (7-day)'],Medium,High,0.4180669038622011,False,0.3963234163517704,P3 - Standard
+CUST_107111,2,1,['Structuring (7-day)'],Medium,High,0.4110902665468467,False,0.3938815932913964,P3 - Standard
+CUST_104667,2,1,['Structuring (7-day)'],Medium,High,0.4109913302957531,False,0.39384696560351357,P3 - Standard
+CUST_109377,2,1,['Structuring (7-day)'],Medium,Medium,0.3933284045174692,False,0.3876649415811142,P3 - Standard
+CUST_106479,1,1,['Structuring (7-day)'],Medium,Medium,0.3910230356133582,False,0.38685806246467536,P3 - Standard
+CUST_108461,2,1,['Structuring (7-day)'],Medium,Medium,0.386242585742323,False,0.38518490500981306,P3 - Standard
+CUST_102258,2,1,['Structuring (7-day)'],Medium,Medium,0.385629391929907,False,0.38497028717546744,P3 - Standard
+CUST_104809,1,1,['Structuring (7-day)'],Medium,Medium,0.3611114752108862,False,0.37638901632381017,P3 - Standard
+CUST_102943,1,1,['Structuring (7-day)'],Medium,Medium,0.3571142010023728,False,0.3749899703508305,P3 - Standard
+CUST_100847,1,1,['Structuring (7-day)'],Medium,Medium,0.353905573268041,False,0.37386695064381437,P3 - Standard
+CUST_105533,1,1,['Structuring (7-day)'],Medium,Medium,0.3512385244944896,False,0.3729334835730713,P3 - Standard
+CUST_107519,1,1,['Structuring (7-day)'],Medium,Medium,0.3479528292498355,False,0.3717834902374424,P3 - Standard
+CUST_103954,2,1,['Structuring (7-day)'],Medium,Medium,0.3429734235010612,False,0.3700406982253714,P3 - Standard
+CUST_104688,2,1,['Structuring (7-day)'],Medium,Medium,0.3426848672725477,False,0.3699397035453917,P3 - Standard
+CUST_102916,2,1,['Structuring (7-day)'],Medium,Medium,0.3420343015094055,False,0.3697120055282919,P3 - Standard
+CUST_108025,1,1,['Structuring (7-day)'],Medium,Medium,0.3354465547795657,False,0.367406294172848,P3 - Standard
+CUST_104742,1,1,['Structuring (7-day)'],Medium,Medium,0.3286216180198765,False,0.36501756630695675,P3 - Standard
+CUST_109779,2,1,['Structuring (7-day)'],Medium,Medium,0.3273442233951953,False,0.36457047818831834,P3 - Standard
+CUST_101643,2,1,['Structuring (7-day)'],Medium,Medium,0.3269194826413696,False,0.36442181892447933,P3 - Standard
+CUST_107717,2,1,['Structuring (7-day)'],Medium,Medium,0.326490047002216,False,0.3642715164507756,P3 - Standard
+CUST_100965,1,1,['Structuring (7-day)'],Medium,Medium,0.3198835065116017,False,0.3619592272790606,P3 - Standard
+CUST_108322,1,1,['Structuring (7-day)'],Medium,Medium,0.3165563793718646,False,0.3607947327801526,P3 - Standard
+CUST_102228,1,1,['Structuring (7-day)'],Medium,Medium,0.3127112545187408,False,0.3594489390815593,P3 - Standard
+CUST_107596,2,1,['Structuring (7-day)'],Medium,Medium,0.3120680065525265,False,0.35922380229338424,P3 - Standard
+CUST_109378,2,1,['Structuring (7-day)'],Medium,Medium,0.3105965479591349,False,0.3587087917856972,P3 - Standard
+CUST_108079,1,1,['Structuring (7-day)'],Medium,Medium,0.2917363256325288,False,0.3521077139713851,P3 - Standard
+CUST_107466,1,1,['Structuring (7-day)'],Medium,Medium,0.2913507804734785,False,0.35197277316571746,P3 - Standard
+CUST_101696,1,1,['Structuring (7-day)'],Medium,Medium,0.2910693342731286,False,0.351874266995595,P3 - Standard
+CUST_108161,2,1,['Structuring (7-day)'],Medium,Medium,0.2865475345340598,False,0.3502916370869209,P3 - Standard
+CUST_101378,2,1,['Structuring (7-day)'],Medium,Medium,0.2525495198256168,False,0.3383923319389659,P3 - Standard

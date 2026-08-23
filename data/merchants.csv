@@ -1,0 +1,501 @@
+merchant_id,merchant_name,category,country
+MERCH_1000,"Rodriguez, Figueroa and Sanchez Utility",Utility,United Arab Emirates
+MERCH_1001,Doyle Ltd Luxury,Luxury,United Arab Emirates
+MERCH_1002,"Mcclain, Miller and Henderson Fuel",Fuel,United Arab Emirates
+MERCH_1003,Davis and Sons Restaurant,Restaurant,United Arab Emirates
+MERCH_1004,"Guzman, Hoffman and Baldwin Supermarket",Supermarket,United Arab Emirates
+MERCH_1005,"Gardner, Robinson and Lawrence Supermarket",Supermarket,United Arab Emirates
+MERCH_1006,Blake and Sons Supermarket,Supermarket,United Arab Emirates
+MERCH_1007,"Henderson, Ramirez and Lewis E-commerce",E-commerce,UK
+MERCH_1008,Garcia-James Supermarket,Supermarket,United Arab Emirates
+MERCH_1009,Abbott-Munoz Luxury,Luxury,United Arab Emirates
+MERCH_1010,Blair PLC Healthcare,Healthcare,United Arab Emirates
+MERCH_1011,Dudley Group Supermarket,Supermarket,United Arab Emirates
+MERCH_1012,Arnold Ltd Supermarket,Supermarket,United Arab Emirates
+MERCH_1013,"Mcclure, Ward and Lee Supermarket",Supermarket,United Arab Emirates
+MERCH_1014,Williams and Sons Telecom,Telecom,United Arab Emirates
+MERCH_1015,Galloway-Wyatt Restaurant,Restaurant,United Arab Emirates
+MERCH_1016,James Group Utility,Utility,United Arab Emirates
+MERCH_1017,"Flowers, Martin and Kelly Telecom",Telecom,United Arab Emirates
+MERCH_1018,"Adams, Zuniga and Wong Restaurant",Restaurant,United Arab Emirates
+MERCH_1019,"Reid, Ferguson and Sanchez Supermarket",Supermarket,United Arab Emirates
+MERCH_1020,Gray-Mayo Telecom,Telecom,United Arab Emirates
+MERCH_1021,"Watts, Robinson and Nguyen Utility",Utility,United Arab Emirates
+MERCH_1022,Perez Inc Rent,Rent,United Arab Emirates
+MERCH_1023,Morales-Jones Fuel,Fuel,United Arab Emirates
+MERCH_1024,"Walter, Edwards and Rios Supermarket",Supermarket,United Arab Emirates
+MERCH_1025,Wilkerson-Day Restaurant,Restaurant,United Arab Emirates
+MERCH_1026,Baker and Sons Restaurant,Restaurant,United Arab Emirates
+MERCH_1027,"Hoffman, Baker and Richards Supermarket",Supermarket,United Arab Emirates
+MERCH_1028,"Ross, Robinson and Bright Restaurant",Restaurant,United Arab Emirates
+MERCH_1029,"Snyder, Campos and Callahan Supermarket",Supermarket,United Arab Emirates
+MERCH_1030,Burton Ltd Supermarket,Supermarket,United Arab Emirates
+MERCH_1031,Carlson-Cruz E-commerce,E-commerce,USA
+MERCH_1032,"Ferrell, Rice and Maddox Healthcare",Healthcare,United Arab Emirates
+MERCH_1033,Frazier Inc Telecom,Telecom,United Arab Emirates
+MERCH_1034,"Dyer, Potter and Mack Supermarket",Supermarket,United Arab Emirates
+MERCH_1035,Rodriguez-Graham Restaurant,Restaurant,United Arab Emirates
+MERCH_1036,Smith-Bowen Utility,Utility,United Arab Emirates
+MERCH_1037,"Baker, Mason and White Supermarket",Supermarket,United Arab Emirates
+MERCH_1038,Harrell LLC Rent,Rent,United Arab Emirates
+MERCH_1039,"Romero, Gonzalez and Brooks Supermarket",Supermarket,United Arab Emirates
+MERCH_1040,Ryan PLC E-commerce,E-commerce,USA
+MERCH_1041,George Group Restaurant,Restaurant,United Arab Emirates
+MERCH_1042,Rodriguez LLC Telecom,Telecom,United Arab Emirates
+MERCH_1043,Allen-Allen Restaurant,Restaurant,United Arab Emirates
+MERCH_1044,"Arroyo, Miller and Tucker Restaurant",Restaurant,United Arab Emirates
+MERCH_1045,Spence PLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1046,Anderson Group Luxury,Luxury,United Arab Emirates
+MERCH_1047,"Martin, Rose and Obrien Fuel",Fuel,United Arab Emirates
+MERCH_1048,Hickman Ltd E-commerce,E-commerce,USA
+MERCH_1049,"Harris, Collins and Carney E-commerce",E-commerce,UK
+MERCH_1050,"Brooks, Lam and Hayes E-commerce",E-commerce,USA
+MERCH_1051,Walker LLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1052,Chapman and Sons Supermarket,Supermarket,United Arab Emirates
+MERCH_1053,"Robinson, Jones and Welch Telecom",Telecom,United Arab Emirates
+MERCH_1054,Jones Inc Utility,Utility,United Arab Emirates
+MERCH_1055,Jones-Young Telecom,Telecom,United Arab Emirates
+MERCH_1056,"Washington, Ryan and Cummings Healthcare",Healthcare,United Arab Emirates
+MERCH_1057,"Johnston, Sanchez and Kennedy Utility",Utility,United Arab Emirates
+MERCH_1058,Lee-Davis Telecom,Telecom,United Arab Emirates
+MERCH_1059,Gomez-Jenkins Restaurant,Restaurant,United Arab Emirates
+MERCH_1060,"Brown, Valdez and Lucas Supermarket",Supermarket,United Arab Emirates
+MERCH_1061,Powell LLC Healthcare,Healthcare,United Arab Emirates
+MERCH_1062,Wright and Sons Supermarket,Supermarket,United Arab Emirates
+MERCH_1063,"West, Henderson and Ramirez Luxury",Luxury,United Arab Emirates
+MERCH_1064,Baxter Inc Fuel,Fuel,United Arab Emirates
+MERCH_1065,Morton-Chase Supermarket,Supermarket,United Arab Emirates
+MERCH_1066,Williams PLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1067,Novak and Sons Healthcare,Healthcare,United Arab Emirates
+MERCH_1068,Russell Group Fuel,Fuel,United Arab Emirates
+MERCH_1069,Hancock Inc Fuel,Fuel,United Arab Emirates
+MERCH_1070,Gray Group Fuel,Fuel,United Arab Emirates
+MERCH_1071,House-Glover Supermarket,Supermarket,United Arab Emirates
+MERCH_1072,Henderson-Bernard Utility,Utility,United Arab Emirates
+MERCH_1073,"Stanley, Tucker and Lee Supermarket",Supermarket,United Arab Emirates
+MERCH_1074,Novak PLC E-commerce,E-commerce,USA
+MERCH_1075,"Daniels, Adkins and Brown Supermarket",Supermarket,United Arab Emirates
+MERCH_1076,"Woods, Calhoun and Schmidt Utility",Utility,United Arab Emirates
+MERCH_1077,Yu Inc Restaurant,Restaurant,United Arab Emirates
+MERCH_1078,Jones Inc Restaurant,Restaurant,United Arab Emirates
+MERCH_1079,"Hensley, Powell and David Restaurant",Restaurant,United Arab Emirates
+MERCH_1080,"Sanchez, Wheeler and Harvey Telecom",Telecom,United Arab Emirates
+MERCH_1081,Sandoval-Cunningham Restaurant,Restaurant,United Arab Emirates
+MERCH_1082,Donovan-Harris Utility,Utility,United Arab Emirates
+MERCH_1083,"Edwards, Baker and Anderson Luxury",Luxury,United Arab Emirates
+MERCH_1084,"Evans, Stewart and Walton Healthcare",Healthcare,United Arab Emirates
+MERCH_1085,Smith PLC Fuel,Fuel,United Arab Emirates
+MERCH_1086,"Ferrell, Jones and Lewis Supermarket",Supermarket,United Arab Emirates
+MERCH_1087,Anderson-Bailey Telecom,Telecom,United Arab Emirates
+MERCH_1088,Suarez LLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1089,Moore-Bass Fuel,Fuel,United Arab Emirates
+MERCH_1090,"Turner, Riggs and Roman Supermarket",Supermarket,United Arab Emirates
+MERCH_1091,"Smith, Montoya and Evans Utility",Utility,United Arab Emirates
+MERCH_1092,"Garcia, Humphrey and Baker Supermarket",Supermarket,United Arab Emirates
+MERCH_1093,Newton and Sons E-commerce,E-commerce,United Arab Emirates
+MERCH_1094,Campbell-Clark Telecom,Telecom,United Arab Emirates
+MERCH_1095,Harris-Walters Restaurant,Restaurant,United Arab Emirates
+MERCH_1096,Wagner-King E-commerce,E-commerce,UK
+MERCH_1097,Davis Group Restaurant,Restaurant,United Arab Emirates
+MERCH_1098,Williams-Cook Restaurant,Restaurant,United Arab Emirates
+MERCH_1099,Walsh LLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1100,Figueroa PLC E-commerce,E-commerce,UK
+MERCH_1101,"Patterson, Smith and Jones Telecom",Telecom,United Arab Emirates
+MERCH_1102,"Mckee, Gardner and Davenport Supermarket",Supermarket,United Arab Emirates
+MERCH_1103,"Tran, Jordan and Williams E-commerce",E-commerce,United Arab Emirates
+MERCH_1104,Nolan-Flynn Telecom,Telecom,United Arab Emirates
+MERCH_1105,Nolan and Sons Supermarket,Supermarket,United Arab Emirates
+MERCH_1106,"Wright, Garcia and Deleon Rent",Rent,United Arab Emirates
+MERCH_1107,Dickson-Brady Supermarket,Supermarket,United Arab Emirates
+MERCH_1108,Hancock and Sons Utility,Utility,United Arab Emirates
+MERCH_1109,Johnson-Doyle E-commerce,E-commerce,USA
+MERCH_1110,Patton-Jenkins Supermarket,Supermarket,United Arab Emirates
+MERCH_1111,"Shields, Cochran and Adams Utility",Utility,United Arab Emirates
+MERCH_1112,"Rodriguez, Brennan and Garrison E-commerce",E-commerce,United Arab Emirates
+MERCH_1113,Gonzalez Group Supermarket,Supermarket,United Arab Emirates
+MERCH_1114,Torres-Pope Utility,Utility,United Arab Emirates
+MERCH_1115,Walker Ltd Healthcare,Healthcare,United Arab Emirates
+MERCH_1116,Ross LLC E-commerce,E-commerce,UK
+MERCH_1117,Rasmussen LLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1118,May-Ross Restaurant,Restaurant,United Arab Emirates
+MERCH_1119,"Rivera, Johnson and Wiley Rent",Rent,United Arab Emirates
+MERCH_1120,White-Estes Restaurant,Restaurant,United Arab Emirates
+MERCH_1121,Johnson-Carlson Telecom,Telecom,United Arab Emirates
+MERCH_1122,Chandler-Edwards Supermarket,Supermarket,United Arab Emirates
+MERCH_1123,"Joyce, Wilson and Lam Supermarket",Supermarket,United Arab Emirates
+MERCH_1124,Scott Ltd Supermarket,Supermarket,United Arab Emirates
+MERCH_1125,Smith-Frost Restaurant,Restaurant,United Arab Emirates
+MERCH_1126,"Mcdaniel, Bentley and Mclaughlin Utility",Utility,United Arab Emirates
+MERCH_1127,Diaz Inc Supermarket,Supermarket,United Arab Emirates
+MERCH_1128,"Mccall, Hanson and Alvarado Telecom",Telecom,United Arab Emirates
+MERCH_1129,Cortez LLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1130,"Parker, Ortiz and Powell Restaurant",Restaurant,United Arab Emirates
+MERCH_1131,Spencer-Lee Fuel,Fuel,United Arab Emirates
+MERCH_1132,"Bentley, Byrd and Orr Supermarket",Supermarket,United Arab Emirates
+MERCH_1133,"Carroll, Sullivan and Bass Luxury",Luxury,United Arab Emirates
+MERCH_1134,Mitchell-Jordan Telecom,Telecom,United Arab Emirates
+MERCH_1135,"Lawson, Morris and Ramos Luxury",Luxury,United Arab Emirates
+MERCH_1136,"Lewis, Kennedy and Santana Utility",Utility,United Arab Emirates
+MERCH_1137,"Jackson, Miller and Robertson Supermarket",Supermarket,United Arab Emirates
+MERCH_1138,"Harvey, Davis and Crane Telecom",Telecom,United Arab Emirates
+MERCH_1139,Chambers and Sons Restaurant,Restaurant,United Arab Emirates
+MERCH_1140,Hernandez Inc Restaurant,Restaurant,United Arab Emirates
+MERCH_1141,Riggs PLC Restaurant,Restaurant,United Arab Emirates
+MERCH_1142,Gibson Ltd Utility,Utility,United Arab Emirates
+MERCH_1143,"Lee, Horton and Snyder Restaurant",Restaurant,United Arab Emirates
+MERCH_1144,Hernandez Ltd Restaurant,Restaurant,United Arab Emirates
+MERCH_1145,Stafford Inc Supermarket,Supermarket,United Arab Emirates
+MERCH_1146,Robinson-Brock Utility,Utility,United Arab Emirates
+MERCH_1147,"Holmes, Williams and Wright Supermarket",Supermarket,United Arab Emirates
+MERCH_1148,Bryant Group Healthcare,Healthcare,United Arab Emirates
+MERCH_1149,"Schmidt, Hansen and Stewart Rent",Rent,United Arab Emirates
+MERCH_1150,Salazar-Ball Luxury,Luxury,United Arab Emirates
+MERCH_1151,"Simmons, Meadows and Griffin Utility",Utility,United Arab Emirates
+MERCH_1152,Manning Group Healthcare,Healthcare,United Arab Emirates
+MERCH_1153,Green-Wright Fuel,Fuel,United Arab Emirates
+MERCH_1154,"Ramirez, Strickland and Washington Supermarket",Supermarket,United Arab Emirates
+MERCH_1155,Hill Inc Restaurant,Restaurant,United Arab Emirates
+MERCH_1156,"Mitchell, Nelson and Flores Restaurant",Restaurant,United Arab Emirates
+MERCH_1157,"Miller, Hernandez and Reyes E-commerce",E-commerce,UK
+MERCH_1158,Mccarthy Inc Supermarket,Supermarket,United Arab Emirates
+MERCH_1159,Russell-Daniels Fuel,Fuel,United Arab Emirates
+MERCH_1160,Brown-Wall Healthcare,Healthcare,United Arab Emirates
+MERCH_1161,Stein-Silva Telecom,Telecom,United Arab Emirates
+MERCH_1162,"Smith, Gilmore and Johnston Supermarket",Supermarket,United Arab Emirates
+MERCH_1163,Smith-Bell E-commerce,E-commerce,UK
+MERCH_1164,Castaneda-Ashley E-commerce,E-commerce,United Arab Emirates
+MERCH_1165,Medina-Navarro Restaurant,Restaurant,United Arab Emirates
+MERCH_1166,"Hurst, Freeman and Nelson Fuel",Fuel,United Arab Emirates
+MERCH_1167,Johnson-Rogers Supermarket,Supermarket,United Arab Emirates
+MERCH_1168,"Yates, Ramsey and Pittman Restaurant",Restaurant,United Arab Emirates
+MERCH_1169,Hooper PLC Restaurant,Restaurant,United Arab Emirates
+MERCH_1170,Meadows PLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1171,"Alvarado, Miller and Patterson Supermarket",Supermarket,United Arab Emirates
+MERCH_1172,White-Green Luxury,Luxury,United Arab Emirates
+MERCH_1173,Lewis-Murphy Restaurant,Restaurant,United Arab Emirates
+MERCH_1174,Ramirez-Bean Telecom,Telecom,United Arab Emirates
+MERCH_1175,King-Miller Luxury,Luxury,United Arab Emirates
+MERCH_1176,Curry Inc Luxury,Luxury,United Arab Emirates
+MERCH_1177,Walker-Jones Restaurant,Restaurant,United Arab Emirates
+MERCH_1178,"Williams, Johnson and Wright E-commerce",E-commerce,UK
+MERCH_1179,Howell and Sons Telecom,Telecom,United Arab Emirates
+MERCH_1180,Wells Inc Telecom,Telecom,United Arab Emirates
+MERCH_1181,"Gould, Marshall and Scott Fuel",Fuel,United Arab Emirates
+MERCH_1182,Jackson-Lawson E-commerce,E-commerce,USA
+MERCH_1183,"Higgins, Strickland and Martin Fuel",Fuel,United Arab Emirates
+MERCH_1184,Rodriguez-Johnson Restaurant,Restaurant,United Arab Emirates
+MERCH_1185,Johnston-Odonnell Supermarket,Supermarket,United Arab Emirates
+MERCH_1186,Sanders-Espinoza Supermarket,Supermarket,United Arab Emirates
+MERCH_1187,Vargas Ltd E-commerce,E-commerce,USA
+MERCH_1188,Garcia LLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1189,"Burke, Martinez and Riggs Supermarket",Supermarket,United Arab Emirates
+MERCH_1190,Reed Group Restaurant,Restaurant,United Arab Emirates
+MERCH_1191,"Wood, Hunter and Peterson Supermarket",Supermarket,United Arab Emirates
+MERCH_1192,Short-Garcia Supermarket,Supermarket,United Arab Emirates
+MERCH_1193,Reid-Poole Restaurant,Restaurant,United Arab Emirates
+MERCH_1194,"Hernandez, Thompson and Boyd Restaurant",Restaurant,United Arab Emirates
+MERCH_1195,"Nelson, Morton and Medina Restaurant",Restaurant,United Arab Emirates
+MERCH_1196,Marshall-Petersen Supermarket,Supermarket,United Arab Emirates
+MERCH_1197,"Adams, Christian and Rivas Fuel",Fuel,United Arab Emirates
+MERCH_1198,Ramirez Group Supermarket,Supermarket,United Arab Emirates
+MERCH_1199,Christensen PLC Telecom,Telecom,United Arab Emirates
+MERCH_1200,"Barnett, Rogers and Snyder Fuel",Fuel,United Arab Emirates
+MERCH_1201,White-Lewis Restaurant,Restaurant,United Arab Emirates
+MERCH_1202,Peterson-Beard Healthcare,Healthcare,United Arab Emirates
+MERCH_1203,"Beard, Peters and Black Restaurant",Restaurant,United Arab Emirates
+MERCH_1204,Miller Ltd Restaurant,Restaurant,United Arab Emirates
+MERCH_1205,Freeman-Chang Supermarket,Supermarket,United Arab Emirates
+MERCH_1206,"Alvarez, Joseph and West Utility",Utility,United Arab Emirates
+MERCH_1207,Davis and Sons Telecom,Telecom,United Arab Emirates
+MERCH_1208,Holt-Torres Supermarket,Supermarket,United Arab Emirates
+MERCH_1209,"Wood, Tran and Cooper Luxury",Luxury,United Arab Emirates
+MERCH_1210,"Pierce, Bell and Chavez Utility",Utility,United Arab Emirates
+MERCH_1211,King-Martinez E-commerce,E-commerce,UK
+MERCH_1212,Stewart Ltd Utility,Utility,United Arab Emirates
+MERCH_1213,"Tapia, Vaughn and Lee Utility",Utility,United Arab Emirates
+MERCH_1214,"Washington, Hardy and Bray Restaurant",Restaurant,United Arab Emirates
+MERCH_1215,"Carlson, Hooper and Wall Restaurant",Restaurant,United Arab Emirates
+MERCH_1216,Perez-White E-commerce,E-commerce,United Arab Emirates
+MERCH_1217,Erickson and Sons Rent,Rent,United Arab Emirates
+MERCH_1218,Williams-Brown Restaurant,Restaurant,United Arab Emirates
+MERCH_1219,Terry-Martinez Fuel,Fuel,United Arab Emirates
+MERCH_1220,Garcia-Smith Supermarket,Supermarket,United Arab Emirates
+MERCH_1221,Harrison-Alexander Luxury,Luxury,United Arab Emirates
+MERCH_1222,Sheppard LLC Rent,Rent,United Arab Emirates
+MERCH_1223,Wilson-Jones Telecom,Telecom,United Arab Emirates
+MERCH_1224,Jones-Soto E-commerce,E-commerce,United Arab Emirates
+MERCH_1225,Hernandez PLC Luxury,Luxury,United Arab Emirates
+MERCH_1226,Miller-Wright Telecom,Telecom,United Arab Emirates
+MERCH_1227,"Duran, Obrien and Gibbs Restaurant",Restaurant,United Arab Emirates
+MERCH_1228,Rowe Group Restaurant,Restaurant,United Arab Emirates
+MERCH_1229,Kerr-Evans Luxury,Luxury,United Arab Emirates
+MERCH_1230,"Branch, Torres and Oliver Supermarket",Supermarket,United Arab Emirates
+MERCH_1231,"Choi, Garcia and Farmer Telecom",Telecom,United Arab Emirates
+MERCH_1232,"Clark, Guerrero and Moore Supermarket",Supermarket,United Arab Emirates
+MERCH_1233,Arnold and Sons Telecom,Telecom,United Arab Emirates
+MERCH_1234,Ortiz Ltd Rent,Rent,United Arab Emirates
+MERCH_1235,"Harrison, Johnson and Roberts Utility",Utility,United Arab Emirates
+MERCH_1236,Warner-Gibson Utility,Utility,United Arab Emirates
+MERCH_1237,"Hall, Baker and Moody Healthcare",Healthcare,United Arab Emirates
+MERCH_1238,"Guerrero, Peck and Coleman E-commerce",E-commerce,USA
+MERCH_1239,"Walker, Hernandez and Baker Supermarket",Supermarket,United Arab Emirates
+MERCH_1240,Jones and Sons Restaurant,Restaurant,United Arab Emirates
+MERCH_1241,Larson-Holloway Luxury,Luxury,United Arab Emirates
+MERCH_1242,Gonzales-Harrison Supermarket,Supermarket,United Arab Emirates
+MERCH_1243,Lyons-Bender Restaurant,Restaurant,United Arab Emirates
+MERCH_1244,"Fernandez, Kim and George E-commerce",E-commerce,United Arab Emirates
+MERCH_1245,Navarro-Munoz Healthcare,Healthcare,United Arab Emirates
+MERCH_1246,Davis Ltd Supermarket,Supermarket,United Arab Emirates
+MERCH_1247,"Matthews, Smith and Hubbard Fuel",Fuel,United Arab Emirates
+MERCH_1248,Johnston-Hines Restaurant,Restaurant,United Arab Emirates
+MERCH_1249,Ruiz Ltd Telecom,Telecom,United Arab Emirates
+MERCH_1250,Moon-White Utility,Utility,United Arab Emirates
+MERCH_1251,"Graham, Olsen and Costa Telecom",Telecom,United Arab Emirates
+MERCH_1252,Bailey-Cook Restaurant,Restaurant,United Arab Emirates
+MERCH_1253,"Garcia, Martin and Jenkins Supermarket",Supermarket,United Arab Emirates
+MERCH_1254,Roberts-Landry Supermarket,Supermarket,United Arab Emirates
+MERCH_1255,"Johnson, Miller and King Restaurant",Restaurant,United Arab Emirates
+MERCH_1256,Cordova Group Supermarket,Supermarket,United Arab Emirates
+MERCH_1257,"Bryan, Smith and Booth Supermarket",Supermarket,United Arab Emirates
+MERCH_1258,Gutierrez-Lopez Utility,Utility,United Arab Emirates
+MERCH_1259,Dean-Jimenez Supermarket,Supermarket,United Arab Emirates
+MERCH_1260,Wolf-Harris E-commerce,E-commerce,UK
+MERCH_1261,"Anderson, Roberts and Gilmore Utility",Utility,United Arab Emirates
+MERCH_1262,Martinez-Dudley Supermarket,Supermarket,United Arab Emirates
+MERCH_1263,"Lloyd, Mckinney and Collins Restaurant",Restaurant,United Arab Emirates
+MERCH_1264,Tran Inc Supermarket,Supermarket,United Arab Emirates
+MERCH_1265,Gay Inc Rent,Rent,United Arab Emirates
+MERCH_1266,Valentine-Holland Restaurant,Restaurant,United Arab Emirates
+MERCH_1267,Jimenez Ltd Telecom,Telecom,United Arab Emirates
+MERCH_1268,Hicks-Hill Restaurant,Restaurant,United Arab Emirates
+MERCH_1269,Baird-Sanchez Supermarket,Supermarket,United Arab Emirates
+MERCH_1270,"Thomas, Lee and Greene Supermarket",Supermarket,United Arab Emirates
+MERCH_1271,"Suarez, Shields and Hill Healthcare",Healthcare,United Arab Emirates
+MERCH_1272,Morgan-French Utility,Utility,United Arab Emirates
+MERCH_1273,Hoover-Campbell Supermarket,Supermarket,United Arab Emirates
+MERCH_1274,Monroe-Carpenter Restaurant,Restaurant,United Arab Emirates
+MERCH_1275,"Burns, Hernandez and Ryan Fuel",Fuel,United Arab Emirates
+MERCH_1276,Cook-Hines Supermarket,Supermarket,United Arab Emirates
+MERCH_1277,Gibson-Morris Restaurant,Restaurant,United Arab Emirates
+MERCH_1278,Pollard and Sons Supermarket,Supermarket,United Arab Emirates
+MERCH_1279,"Reyes, Chase and Jenkins Supermarket",Supermarket,United Arab Emirates
+MERCH_1280,Garner-Thornton Restaurant,Restaurant,United Arab Emirates
+MERCH_1281,Hughes-Alvarado Restaurant,Restaurant,United Arab Emirates
+MERCH_1282,"Pollard, Simpson and Johnson Restaurant",Restaurant,United Arab Emirates
+MERCH_1283,"Sanford, Rivera and Garcia Fuel",Fuel,United Arab Emirates
+MERCH_1284,Garcia-Lozano Luxury,Luxury,United Arab Emirates
+MERCH_1285,Bowen Group Restaurant,Restaurant,United Arab Emirates
+MERCH_1286,"Booker, Jones and Harrington Telecom",Telecom,United Arab Emirates
+MERCH_1287,Morgan-Schwartz Fuel,Fuel,United Arab Emirates
+MERCH_1288,"Miller, Murphy and Craig Telecom",Telecom,United Arab Emirates
+MERCH_1289,"James, Stewart and Higgins Utility",Utility,United Arab Emirates
+MERCH_1290,Brennan-Johnson Supermarket,Supermarket,United Arab Emirates
+MERCH_1291,Young Ltd Supermarket,Supermarket,United Arab Emirates
+MERCH_1292,Bright-Francis Luxury,Luxury,United Arab Emirates
+MERCH_1293,Good-Hodges Healthcare,Healthcare,United Arab Emirates
+MERCH_1294,"Brennan, Wallace and Benson Restaurant",Restaurant,United Arab Emirates
+MERCH_1295,Williams Inc Utility,Utility,United Arab Emirates
+MERCH_1296,Howard-Jordan Supermarket,Supermarket,United Arab Emirates
+MERCH_1297,Schmidt PLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1298,"Sparks, Jackson and Miller Telecom",Telecom,United Arab Emirates
+MERCH_1299,Harvey-Allen Restaurant,Restaurant,United Arab Emirates
+MERCH_1300,"Thomas, Murray and King Fuel",Fuel,United Arab Emirates
+MERCH_1301,Estrada-Nolan Restaurant,Restaurant,United Arab Emirates
+MERCH_1302,Santana-Byrd Telecom,Telecom,United Arab Emirates
+MERCH_1303,Jones LLC Luxury,Luxury,United Arab Emirates
+MERCH_1304,"Evans, Hayden and Vaughn Fuel",Fuel,United Arab Emirates
+MERCH_1305,Bruce-Gonzalez Restaurant,Restaurant,United Arab Emirates
+MERCH_1306,Castaneda-Rodriguez Restaurant,Restaurant,United Arab Emirates
+MERCH_1307,Armstrong-Andrews Utility,Utility,United Arab Emirates
+MERCH_1308,"Phillips, Spence and Barrett Supermarket",Supermarket,United Arab Emirates
+MERCH_1309,Smith-Grimes Utility,Utility,United Arab Emirates
+MERCH_1310,"Beltran, Lozano and Mcgee Fuel",Fuel,United Arab Emirates
+MERCH_1311,Parsons-Hall Supermarket,Supermarket,United Arab Emirates
+MERCH_1312,Robinson-Lee Supermarket,Supermarket,United Arab Emirates
+MERCH_1313,Byrd-Le Supermarket,Supermarket,United Arab Emirates
+MERCH_1314,"Becker, Taylor and Davis Supermarket",Supermarket,United Arab Emirates
+MERCH_1315,"Lucas, Parker and Alexander E-commerce",E-commerce,United Arab Emirates
+MERCH_1316,"Diaz, Anderson and Browning Rent",Rent,United Arab Emirates
+MERCH_1317,Burgess-Thompson Supermarket,Supermarket,United Arab Emirates
+MERCH_1318,Buchanan LLC Rent,Rent,United Arab Emirates
+MERCH_1319,"Shaw, Nelson and Martin Rent",Rent,United Arab Emirates
+MERCH_1320,Coffey-Phillips Supermarket,Supermarket,United Arab Emirates
+MERCH_1321,Brock-Mcdonald Utility,Utility,United Arab Emirates
+MERCH_1322,Taylor and Sons Utility,Utility,United Arab Emirates
+MERCH_1323,"Ramsey, Whitney and Coffey Restaurant",Restaurant,United Arab Emirates
+MERCH_1324,"Diaz, Gibbs and Smith Restaurant",Restaurant,United Arab Emirates
+MERCH_1325,"Martinez, Richardson and Curry Supermarket",Supermarket,United Arab Emirates
+MERCH_1326,Richards-Carson Utility,Utility,United Arab Emirates
+MERCH_1327,Rodriguez-Hall Restaurant,Restaurant,United Arab Emirates
+MERCH_1328,Harvey PLC Restaurant,Restaurant,United Arab Emirates
+MERCH_1329,Herman-Walker E-commerce,E-commerce,United Arab Emirates
+MERCH_1330,Reid Group Restaurant,Restaurant,United Arab Emirates
+MERCH_1331,"Turner, Ortiz and Taylor Restaurant",Restaurant,United Arab Emirates
+MERCH_1332,Torres Group E-commerce,E-commerce,USA
+MERCH_1333,Davis PLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1334,Price LLC Restaurant,Restaurant,United Arab Emirates
+MERCH_1335,"Avery, Horton and Fernandez E-commerce",E-commerce,USA
+MERCH_1336,"Newton, Moore and Perry Restaurant",Restaurant,United Arab Emirates
+MERCH_1337,Bass PLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1338,Crosby-Ramirez Healthcare,Healthcare,United Arab Emirates
+MERCH_1339,"Wood, Ramos and Sampson Healthcare",Healthcare,United Arab Emirates
+MERCH_1340,Garcia-Jennings Restaurant,Restaurant,United Arab Emirates
+MERCH_1341,"Winters, Newman and Brown Healthcare",Healthcare,United Arab Emirates
+MERCH_1342,Lopez-Martinez Restaurant,Restaurant,United Arab Emirates
+MERCH_1343,Davis-Lewis Supermarket,Supermarket,United Arab Emirates
+MERCH_1344,"Harper, Smith and Buchanan Telecom",Telecom,United Arab Emirates
+MERCH_1345,Zhang PLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1346,Jones PLC Utility,Utility,United Arab Emirates
+MERCH_1347,Willis and Sons Supermarket,Supermarket,United Arab Emirates
+MERCH_1348,Schroeder-Kramer Restaurant,Restaurant,United Arab Emirates
+MERCH_1349,"Smith, Garrison and Thomas Telecom",Telecom,United Arab Emirates
+MERCH_1350,Fernandez and Sons Restaurant,Restaurant,United Arab Emirates
+MERCH_1351,Guerrero Inc Utility,Utility,United Arab Emirates
+MERCH_1352,Smith and Sons Restaurant,Restaurant,United Arab Emirates
+MERCH_1353,"Morris, Thompson and Williams Telecom",Telecom,United Arab Emirates
+MERCH_1354,"Fisher, Wilson and Brown Telecom",Telecom,United Arab Emirates
+MERCH_1355,Strickland-Palmer Rent,Rent,United Arab Emirates
+MERCH_1356,Hayes and Sons Restaurant,Restaurant,United Arab Emirates
+MERCH_1357,"Williams, Logan and Camacho Telecom",Telecom,United Arab Emirates
+MERCH_1358,"Turner, Schneider and Johnson E-commerce",E-commerce,United Arab Emirates
+MERCH_1359,Boone-Simmons Healthcare,Healthcare,United Arab Emirates
+MERCH_1360,Henry Group Telecom,Telecom,United Arab Emirates
+MERCH_1361,Lam LLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1362,"Hernandez, Martinez and Weber Fuel",Fuel,United Arab Emirates
+MERCH_1363,"Kelley, Nguyen and Vang Healthcare",Healthcare,United Arab Emirates
+MERCH_1364,"Phillips, Wagner and Jordan Luxury",Luxury,United Arab Emirates
+MERCH_1365,"Wilson, Pena and Rich Utility",Utility,United Arab Emirates
+MERCH_1366,"Le, Lewis and Hayes Utility",Utility,United Arab Emirates
+MERCH_1367,Gutierrez Group Fuel,Fuel,United Arab Emirates
+MERCH_1368,Perry-Davis Telecom,Telecom,United Arab Emirates
+MERCH_1369,Edwards-Scott E-commerce,E-commerce,United Arab Emirates
+MERCH_1370,Mcdaniel Group Supermarket,Supermarket,United Arab Emirates
+MERCH_1371,Davis Inc Restaurant,Restaurant,United Arab Emirates
+MERCH_1372,Reynolds Ltd Fuel,Fuel,United Arab Emirates
+MERCH_1373,"Watson, Anderson and Brown Supermarket",Supermarket,United Arab Emirates
+MERCH_1374,"Hoffman, Santiago and Jenkins Utility",Utility,United Arab Emirates
+MERCH_1375,"Pugh, Henderson and Moon Restaurant",Restaurant,United Arab Emirates
+MERCH_1376,Schmitt PLC Rent,Rent,United Arab Emirates
+MERCH_1377,Bell-Lane Utility,Utility,United Arab Emirates
+MERCH_1378,Moore Group Telecom,Telecom,United Arab Emirates
+MERCH_1379,Boone LLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1380,"Richardson, Farmer and Andrews Supermarket",Supermarket,United Arab Emirates
+MERCH_1381,Bruce-Villegas Luxury,Luxury,United Arab Emirates
+MERCH_1382,"Austin, Day and Johnson Healthcare",Healthcare,United Arab Emirates
+MERCH_1383,"Gallegos, Adams and White Utility",Utility,United Arab Emirates
+MERCH_1384,"Farmer, Dorsey and Bell Luxury",Luxury,United Arab Emirates
+MERCH_1385,Kane PLC Restaurant,Restaurant,United Arab Emirates
+MERCH_1386,"Morales, Thomas and Schultz Rent",Rent,United Arab Emirates
+MERCH_1387,Davis PLC Rent,Rent,United Arab Emirates
+MERCH_1388,Bennett Group Supermarket,Supermarket,United Arab Emirates
+MERCH_1389,Moore-Collins Supermarket,Supermarket,United Arab Emirates
+MERCH_1390,Frank-Bradley Restaurant,Restaurant,United Arab Emirates
+MERCH_1391,Ware and Sons Restaurant,Restaurant,United Arab Emirates
+MERCH_1392,Webster Inc Supermarket,Supermarket,United Arab Emirates
+MERCH_1393,"Miller, Ramos and Coleman E-commerce",E-commerce,United Arab Emirates
+MERCH_1394,"Ramos, Nelson and Fischer Supermarket",Supermarket,United Arab Emirates
+MERCH_1395,Reed Inc E-commerce,E-commerce,USA
+MERCH_1396,Gregory-Watkins Supermarket,Supermarket,United Arab Emirates
+MERCH_1397,"Estrada, Williams and Foster Restaurant",Restaurant,United Arab Emirates
+MERCH_1398,"Brown, Harris and Dougherty Utility",Utility,United Arab Emirates
+MERCH_1399,Duran LLC E-commerce,E-commerce,UK
+MERCH_1400,Wilson-Jimenez Fuel,Fuel,United Arab Emirates
+MERCH_1401,Thompson-James Luxury,Luxury,United Arab Emirates
+MERCH_1402,"Hall, Hansen and Barnett Restaurant",Restaurant,United Arab Emirates
+MERCH_1403,Jones-Hensley Healthcare,Healthcare,United Arab Emirates
+MERCH_1404,Graham Group E-commerce,E-commerce,USA
+MERCH_1405,Atkins PLC Supermarket,Supermarket,United Arab Emirates
+MERCH_1406,Berry-Mckinney Fuel,Fuel,United Arab Emirates
+MERCH_1407,Roberts-Sullivan Supermarket,Supermarket,United Arab Emirates
+MERCH_1408,Jackson-Meza Healthcare,Healthcare,United Arab Emirates
+MERCH_1409,Collier-Gillespie Fuel,Fuel,United Arab Emirates
+MERCH_1410,Kim Inc Supermarket,Supermarket,United Arab Emirates
+MERCH_1411,Graham Group Supermarket,Supermarket,United Arab Emirates
+MERCH_1412,"Miller, Harrell and Reese Luxury",Luxury,United Arab Emirates
+MERCH_1413,Cook and Sons Utility,Utility,United Arab Emirates
+MERCH_1414,Dixon Inc Utility,Utility,United Arab Emirates
+MERCH_1415,"Hicks, Bullock and Bailey Healthcare",Healthcare,United Arab Emirates
+MERCH_1416,"Mullen, Brewer and Hernandez E-commerce",E-commerce,United Arab Emirates
+MERCH_1417,Thomas and Sons Restaurant,Restaurant,United Arab Emirates
+MERCH_1418,Morrison Ltd Utility,Utility,United Arab Emirates
+MERCH_1419,Thompson Ltd Fuel,Fuel,United Arab Emirates
+MERCH_1420,Marshall-Elliott Rent,Rent,United Arab Emirates
+MERCH_1421,"Cole, Glass and Cunningham Utility",Utility,United Arab Emirates
+MERCH_1422,"Downs, Morris and Maddox Fuel",Fuel,United Arab Emirates
+MERCH_1423,Hernandez-Jones Supermarket,Supermarket,United Arab Emirates
+MERCH_1424,Welch-Hogan Telecom,Telecom,United Arab Emirates
+MERCH_1425,"Brown, Romero and Collins Utility",Utility,United Arab Emirates
+MERCH_1426,Johnson-Wood Telecom,Telecom,United Arab Emirates
+MERCH_1427,Jones-Lin Utility,Utility,United Arab Emirates
+MERCH_1428,Gilbert PLC Restaurant,Restaurant,United Arab Emirates
+MERCH_1429,Ford-Spencer Fuel,Fuel,United Arab Emirates
+MERCH_1430,"Huang, Cole and Pacheco Fuel",Fuel,United Arab Emirates
+MERCH_1431,"Lopez, Jacobs and Mason Healthcare",Healthcare,United Arab Emirates
+MERCH_1432,Hayes LLC Fuel,Fuel,United Arab Emirates
+MERCH_1433,"Miller, Lucas and Williams Restaurant",Restaurant,United Arab Emirates
+MERCH_1434,"Kim, Gonzales and Mills Supermarket",Supermarket,United Arab Emirates
+MERCH_1435,Cox LLC Utility,Utility,United Arab Emirates
+MERCH_1436,Ortiz-Morgan Rent,Rent,United Arab Emirates
+MERCH_1437,"Williams, Mccoy and Cook Supermarket",Supermarket,United Arab Emirates
+MERCH_1438,Davis-Gregory Restaurant,Restaurant,United Arab Emirates
+MERCH_1439,King-York Utility,Utility,United Arab Emirates
+MERCH_1440,"Marks, Cook and Aguilar Healthcare",Healthcare,United Arab Emirates
+MERCH_1441,Rangel LLC Luxury,Luxury,United Arab Emirates
+MERCH_1442,"Hale, Myers and Larson Restaurant",Restaurant,United Arab Emirates
+MERCH_1443,Collins Group Telecom,Telecom,United Arab Emirates
+MERCH_1444,"Conner, Li and Santiago Supermarket",Supermarket,United Arab Emirates
+MERCH_1445,"Osborn, Gaines and Davis E-commerce",E-commerce,United Arab Emirates
+MERCH_1446,"Henderson, Cox and Cox Telecom",Telecom,United Arab Emirates
+MERCH_1447,Bean LLC Restaurant,Restaurant,United Arab Emirates
+MERCH_1448,Lee-Cooke Supermarket,Supermarket,United Arab Emirates
+MERCH_1449,Jones Inc Supermarket,Supermarket,United Arab Emirates
+MERCH_1450,"Wise, Conley and Stephenson Supermarket",Supermarket,United Arab Emirates
+MERCH_1451,Stanley PLC Telecom,Telecom,United Arab Emirates
+MERCH_1452,Harper and Sons Luxury,Luxury,United Arab Emirates
+MERCH_1453,White Ltd Restaurant,Restaurant,United Arab Emirates
+MERCH_1454,"Lamb, Martin and Kim Utility",Utility,United Arab Emirates
+MERCH_1455,Diaz-Ball Fuel,Fuel,United Arab Emirates
+MERCH_1456,Bishop-Goodwin E-commerce,E-commerce,USA
+MERCH_1457,Young-Allen Luxury,Luxury,United Arab Emirates
+MERCH_1458,Mckee-Lee E-commerce,E-commerce,United Arab Emirates
+MERCH_1459,"Valentine, Joyce and Murray Telecom",Telecom,United Arab Emirates
+MERCH_1460,Strickland-Shaw Supermarket,Supermarket,United Arab Emirates
+MERCH_1461,Burch-Montoya Rent,Rent,United Arab Emirates
+MERCH_1462,"Taylor, Wright and Davidson Utility",Utility,United Arab Emirates
+MERCH_1463,Spencer-Garcia Restaurant,Restaurant,United Arab Emirates
+MERCH_1464,"Rosales, Mitchell and Hines Supermarket",Supermarket,United Arab Emirates
+MERCH_1465,Cole-Palmer Luxury,Luxury,United Arab Emirates
+MERCH_1466,Davis-Lozano Luxury,Luxury,United Arab Emirates
+MERCH_1467,Wilkerson-Arias Restaurant,Restaurant,United Arab Emirates
+MERCH_1468,Brown-Shaw Restaurant,Restaurant,United Arab Emirates
+MERCH_1469,Hughes Inc Telecom,Telecom,United Arab Emirates
+MERCH_1470,Walker-Flores Healthcare,Healthcare,United Arab Emirates
+MERCH_1471,Combs Ltd Restaurant,Restaurant,United Arab Emirates
+MERCH_1472,Moody-Taylor Supermarket,Supermarket,United Arab Emirates
+MERCH_1473,Lowery-Kennedy E-commerce,E-commerce,United Arab Emirates
+MERCH_1474,Blake Group E-commerce,E-commerce,UK
+MERCH_1475,Gilbert-Bullock Fuel,Fuel,United Arab Emirates
+MERCH_1476,Scott and Sons Restaurant,Restaurant,United Arab Emirates
+MERCH_1477,"Bentley, Lynch and Henderson Utility",Utility,United Arab Emirates
+MERCH_1478,Young-Martinez E-commerce,E-commerce,USA
+MERCH_1479,Barnes PLC Restaurant,Restaurant,United Arab Emirates
+MERCH_1480,Brown-Copeland Supermarket,Supermarket,United Arab Emirates
+MERCH_1481,Carlson-Smith Utility,Utility,United Arab Emirates
+MERCH_1482,"Andrews, Higgins and Carter Fuel",Fuel,United Arab Emirates
+MERCH_1483,Mendez and Sons Rent,Rent,United Arab Emirates
+MERCH_1484,"Butler, Beck and Miller Luxury",Luxury,United Arab Emirates
+MERCH_1485,Jones-Fox Utility,Utility,United Arab Emirates
+MERCH_1486,"Hartman, Romero and Smith Fuel",Fuel,United Arab Emirates
+MERCH_1487,Williams-Hughes Utility,Utility,United Arab Emirates
+MERCH_1488,King-Smith Healthcare,Healthcare,United Arab Emirates
+MERCH_1489,Cooper Ltd Restaurant,Restaurant,United Arab Emirates
+MERCH_1490,"Fuller, Ingram and Moss Supermarket",Supermarket,United Arab Emirates
+MERCH_1491,Anderson-Bell Supermarket,Supermarket,United Arab Emirates
+MERCH_1492,Li-Thompson Supermarket,Supermarket,United Arab Emirates
+MERCH_1493,"Marshall, Dominguez and Welch Supermarket",Supermarket,United Arab Emirates
+MERCH_1494,Brown Group Supermarket,Supermarket,United Arab Emirates
+MERCH_1495,Carter Inc Restaurant,Restaurant,United Arab Emirates
+MERCH_1496,Blackwell LLC Restaurant,Restaurant,United Arab Emirates
+MERCH_1497,Robertson-Hays Fuel,Fuel,United Arab Emirates
+MERCH_1498,"Kennedy, Johnson and Lucas E-commerce",E-commerce,UK
+MERCH_1499,Kelly-Norman Fuel,Fuel,United Arab Emirates
