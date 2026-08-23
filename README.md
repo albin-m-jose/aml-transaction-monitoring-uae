@@ -144,5 +144,5 @@ direct precision/recall comparison.
 
 ## Author
 
-**Albin M Jose**
-[LinkedIn] (https://www.linkedin.com/in/albin-mj/) · [GitHub](https://github.com/albin-m-jose)
+**Albin M Jose**  
+[LinkedIn](https://www.linkedin.com/in/albin-mj/) · [GitHub](https://github.com/albin-m-jose)
