@@ -39,22 +39,25 @@ The dashboard includes:
 - A full methodology & findings tab documenting every design decision and known limitation
 
 ## Project Structure
+
+```
 aml-transaction-monitoring-uae/
 ├── app/
-│ └── investigation_dashboard.py # Streamlit dashboard
-├── data/ # Synthetic datasets + processed outputs
+│   └── investigation_dashboard.py
+├── data/
 ├── notebooks/
-│ ├── 00_synthetic_data_generator.ipynb
-│ ├── 01_eda_and_data_quality.ipynb
-│ ├── 02_customer_risk_scoring.ipynb
-│ ├── 03_detection_rules.ipynb
-│ ├── 04_peer_comparison.ipynb
-│ ├── 05_alert_triage_metrics.ipynb
-│ └── layering_network.html
+│   ├── 00_synthetic_data_generator.ipynb
+│   ├── 01_eda_and_data_quality.ipynb
+│   ├── 02_customer_risk_scoring.ipynb
+│   ├── 03_detection_rules.ipynb
+│   ├── 04_peer_comparison.ipynb
+│   ├── 05_alert_triage_metrics.ipynb
+│   └── layering_network.html
 ├── reports/
-│ └── executive_summary.md # Phase-by-phase written summary
+│   └── executive_summary.md
 ├── requirements.txt
 └── README.md
+```
 
 
 ## Methodology & Results Summary
